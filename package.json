@@ -1,0 +1,10 @@
+{
+  "name": "wezza",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.4"
+  }
+}
